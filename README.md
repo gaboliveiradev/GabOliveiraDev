@@ -8,6 +8,11 @@
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=gaboliveiradev&theme=gotham&hide_border=true&area=true)
+
+<div align="center">
+  <a href="https://www.instagram.com/eugabriieloliveira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.registros.exe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
   
 ### Main skills | Principais Habilidades:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
